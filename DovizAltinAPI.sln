@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DovisAPI", "DovisAPI\DovisAPI.csproj", "{5AFA18AA-510F-4C5B-9D9C-FB897E7A5579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{173C5812-357B-4F43-BD06-764CE747016A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Source", "Source\Source.csproj", "{2B6547D8-C2F8-4F14-9A8A-3E19D0D7E522}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AFA18AA-510F-4C5B-9D9C-FB897E7A5579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AFA18AA-510F-4C5B-9D9C-FB897E7A5579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AFA18AA-510F-4C5B-9D9C-FB897E7A5579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AFA18AA-510F-4C5B-9D9C-FB897E7A5579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{173C5812-357B-4F43-BD06-764CE747016A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{173C5812-357B-4F43-BD06-764CE747016A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{173C5812-357B-4F43-BD06-764CE747016A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{173C5812-357B-4F43-BD06-764CE747016A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B6547D8-C2F8-4F14-9A8A-3E19D0D7E522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B6547D8-C2F8-4F14-9A8A-3E19D0D7E522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B6547D8-C2F8-4F14-9A8A-3E19D0D7E522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B6547D8-C2F8-4F14-9A8A-3E19D0D7E522}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95D5775F-BBCF-42F3-8D3D-349467932E45}
+	EndGlobalSection
+EndGlobal

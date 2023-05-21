@@ -1,0 +1,15 @@
+C:\Users\hasan\OneDrive\Masaüstü\Kurlar\Banks\bin\Debug\net7.0\Banks.deps.json
+C:\Users\hasan\OneDrive\Masaüstü\Kurlar\Banks\bin\Debug\net7.0\Banks.dll
+C:\Users\hasan\OneDrive\Masaüstü\Kurlar\Banks\bin\Debug\net7.0\Banks.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Kurlar\Banks\obj\Debug\net7.0\Banks.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\Kurlar\Banks\obj\Debug\net7.0\Banks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\OneDrive\Masaüstü\Kurlar\Banks\obj\Debug\net7.0\Banks.AssemblyInfoInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Kurlar\Banks\obj\Debug\net7.0\Banks.AssemblyInfo.cs
+C:\Users\hasan\OneDrive\Masaüstü\Kurlar\Banks\obj\Debug\net7.0\Banks.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Kurlar\Banks\obj\Debug\net7.0\Banks.csproj.CopyComplete
+C:\Users\hasan\OneDrive\Masaüstü\Kurlar\Banks\obj\Debug\net7.0\Banks.dll
+C:\Users\hasan\OneDrive\Masaüstü\Kurlar\Banks\obj\Debug\net7.0\refint\Banks.dll
+C:\Users\hasan\OneDrive\Masaüstü\Kurlar\Banks\obj\Debug\net7.0\Banks.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Kurlar\Banks\obj\Debug\net7.0\ref\Banks.dll
+C:\Users\hasan\OneDrive\Masaüstü\Kurlar\Banks\bin\Debug\net7.0\Interfaces.dll
+C:\Users\hasan\OneDrive\Masaüstü\Kurlar\Banks\bin\Debug\net7.0\Interfaces.pdb

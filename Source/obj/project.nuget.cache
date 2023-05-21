@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7u21KWPIXfODFUdXCSq/FkI0tH0ABBZ2AqVA6ZuFRFl9l/8P7VOpKaoxnMV2++Yf9GhRgR+oMjiTRtOIdaFkqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hasan\\OneDrive\\Masaüstü\\Doviz-Altin-API\\Source\\Source.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hasan\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
